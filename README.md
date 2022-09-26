@@ -1,2 +1,2 @@
 # YOLO_labelTool
-https://github.com/satan007417/yolov5
+https://github.com/ultralytics/yolov5
